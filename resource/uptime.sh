@@ -1,3 +1,3 @@
 #!/bin/bash
-#hi
+#hihi
 uptime >> /tmp/uptime.txt
